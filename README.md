@@ -58,7 +58,7 @@ Goals
 
 Connect With Me
 
-- LinkedIn: (Add your profile link)
+- LinkedIn: www.linkedin.com/in/vijay-krishnan-k-35ba11372
 - GitHub: (Add your GitHub profile link)
 - Email: (Add your email)
 
