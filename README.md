@@ -9,10 +9,6 @@ Skills
 - Python
 - SQL
 - HTML & CSS
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
 - Data Analysis
 - Machine Learning
 - Git & GitHub
@@ -23,22 +19,7 @@ Currently Learning
 - Data Visualization
 - Deep Learning
 - Power BI
-- Data Engineering
-
-Projects
-
-Face Detection System
-
-A computer vision project that detects human faces using Python and OpenCV.
-
-MedSync
-
-A healthcare application designed to help users quickly connect with hospitals and emergency services.
-
-Data Analysis Projects
-
-Exploratory data analysis and visualization using Python, Pandas, and Matplotlib.
-
+  
 Education
 
 SOS Institution
