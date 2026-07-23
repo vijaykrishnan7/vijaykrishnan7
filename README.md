@@ -59,7 +59,7 @@ Goals
 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/vijay-krishnan-k-35ba11372
-- GitHub: (Add your GitHub profile link)
-- Email: (Add your email)
+- GitHub: https://github.com/vijaykrishnan7
+- Email: vijaykrishnank31@gmail.com
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
